@@ -141,3 +141,31 @@ nav >ul{
     font-size: 30px;
     font-weight: 700px;
 }
+.resume-containar{
+    display: flex;
+    gap: 50px;
+}
+.resume-itme-title{
+      color: #474747;
+      font-size: 25px;
+      font-weight: 700;
+      margin-bottom: 10px;
+}
+
+.resume-item-description{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.resume-item-description, .resume-itme-institute{
+    color: #757575;
+
+}
+.resume-containar hr{
+    margin: 30px;
+
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
